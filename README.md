@@ -76,7 +76,7 @@ The Tableau dashboard provides an interactive overview of:
 
 - `ecommerce_analysis.sql` — SQL queries used for the analysis
 - `README.md` — Project documentation
-- 
+  
 ## Dataset
 
 This project uses the **Ecommerce Sales & Returns Dataset, Version 1.0.0**, maintained by Analytics Engineering.
