@@ -63,9 +63,13 @@ The Tableau dashboard provides an interactive overview of:
 
 ## Key Findings
 **Stable revenue performance:** The business generated $60.07M in net revenue from 100,000 orders, with monthly revenue remaining relatively stable between approximately $1.55M and $1.82M throughout the three-year period.
+
 **Consumer segment dominance:** Consumer customers generated substantially more revenue than small-business and enterprise customers, making this the company's primary revenue segment.
+
 **US market concentration:** The United States was the dominant revenue-generating market, considerably outperforming the other countries analyzed.
+
 **Organic acquisition leadership:** Organic acquisition generated the highest order volume (30,323) and net revenue ($18.19M), while AOV remained relatively consistent across acquisition channels.
+
 **Refund opportunity:** Partial refunds occurred more frequently than full refunds (5.22% vs. 2.69%), suggesting an opportunity to investigate the underlying causes of partial refunds and their impact on net revenue.
 
 ## Files
